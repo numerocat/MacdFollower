@@ -18,7 +18,7 @@ Now, you are all set to write:
 
 and you will get the stocks with a good buy or sell opportunity
 
-How to change the companies being checked:
+# How to change the companies being checked:
 
 In the script realtimeMACD.py there is the list of the tickers that are being analized, you can manually change those.
 

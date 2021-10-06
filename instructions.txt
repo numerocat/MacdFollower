@@ -1,0 +1,4 @@
+conda create --name macd python=3.7
+conda activate macd
+pip install yahoo_fin
+pip install matplotlib
